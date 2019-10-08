@@ -13,9 +13,9 @@ This is example :
 
 ```
 {
-        animeEmoji:" 🏀 🏆 ⛹🏻‍",
+        animeEmoji:"🏀 🏆 ⛹🏻‍",
         animeName:"Kuroko's Basketball",
-        animeYear:2012,
+        animeYear:"2012",
         animeLink:"https://myanimelist.net/anime/11771/Kuroko_no_Basket"
     }
 ```
